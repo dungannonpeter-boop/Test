@@ -1,0 +1,4954 @@
+{
+  "exportedAt": "2026-04-09T09:31:54.384Z",
+  "configName": "Streaming Catalogues",
+  "catalogs": [
+    {
+      "_id": "bb9cb6fa-3a14-4b97-bb92-dad4b4b3f5f3",
+      "name": "🍿 Netflix",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          8,
+          1796
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "64a551eb-8fb7-4cb3-98d4-7b017143c92f",
+      "name": "🍿 Netflix",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "withNetworks": "",
+        "watchRegion": "US",
+        "watchProviders": [
+          8,
+          1796
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e778722f-a286-4fc9-b16f-0b354c778b91",
+      "name": "🍿🧸 Netflix Kids",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          175
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "710aeb10-bd25-49c6-8fcb-172020be13e4",
+      "name": "🍿🧸 Netflix Kids",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "withNetworks": "",
+        "watchRegion": "US",
+        "watchProviders": [
+          175
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "76b62f7c-6c28-4744-bfb7-1ad8d807bd7f",
+      "name": "🟣 HBO Max",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1899
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2b53699b-f9d2-4a5d-afa4-25ca8604a856",
+      "name": "🟣 HBO Max",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1899
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "0bc9f40f-5836-4152-90eb-4d70ece0f0cd",
+      "name": "🏰 Disney+ (Animation)",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [
+          16
+        ],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          337,
+          508
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "dfa286fb-aa14-48b0-b1bd-d9ff0aa25a97",
+      "name": "🏰 Disney+ (Live-Action)",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [
+          16
+        ],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          337,
+          508
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "051104b3-2d95-4736-8fa8-b1697109677d",
+      "name": "🏰 Disney+ (Animation)",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [
+          16
+        ],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          337,
+          508
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "61a5617a-e604-4e3e-9abb-84809e3894f0",
+      "name": "🏰 Disney+ (Live-Action)",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [
+          16
+        ],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          337,
+          508
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "4b458760-add1-40d7-9f43-e1a4322a8a84",
+      "name": "📦 Amazon Prime Video",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          9,
+          613,
+          2100
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e81401ad-c084-402c-9c54-f05a268dd885",
+      "name": "📦 Amazon Prime Video",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          9,
+          613,
+          2100
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2956e8f4-99ed-4aa2-ad5c-cfe692694dec",
+      "name": "🍎 Apple TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          350
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "4b19524a-8e62-4c60-bcac-0594fe6e8513",
+      "name": "🍎 Apple TV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          350
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "655833d5-1eb8-4f13-9ef7-5db48c07c3b0",
+      "name": "🏔️ Paramount",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2303,
+          2616
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "747b381b-faae-4a7f-a7d5-4c4e5ceb1186",
+      "name": "🏔️ Paramount",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2303,
+          2616
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "bec54cc8-eb36-4275-b75f-541c24ca96a6",
+      "name": "🦚 Peacock",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          386,
+          387
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2de236f5-33fe-4569-b332-eccd6d9044b0",
+      "name": "🦚 Peacock",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          386,
+          387
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "358e8694-498a-4c90-8301-1874ad19322e",
+      "name": "🟢 Hulu",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          15
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "7010ea85-c8b1-4b1c-990c-021957cd5c12",
+      "name": "🟢 Hulu",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          15
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "894c5ebf-1dad-419a-8b2a-7d2f797b43da",
+      "name": "🔬 Curiosity",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          190
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "ea69b05b-863c-4cca-9e97-cacb7929462a",
+      "name": "🔬 Curiosity",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          190
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "eb565621-898e-496f-80cd-a0a047ef6aff",
+      "name": "🧭 Magellan TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          551
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e0eafe30-26e8-424c-9c1b-13085ce1edd1",
+      "name": "🧭 Magellan TV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          551
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "245da5c4-eea5-4f67-a9a1-2f5ec096e86e",
+      "name": "🍥🎨 Crunchyroll (Animation)",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [
+          16
+        ],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          283
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "1c05f949-6cb7-4df7-b1e3-1b78fd00764c",
+      "name": "🍥🎞️ Crunchyroll (Live-Action)",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [
+          16
+        ],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          283
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "115b4c63-5abc-41c1-825a-38cac4b0db67",
+      "name": "🍥🎨 Crunchyroll (Animation)",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [
+          16
+        ],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          283
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6a59038d-d6c7-457b-94c5-16f018d9801a",
+      "name": "🍥🎞️ Crunchyroll (Live-Action)",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [
+          16
+        ],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          283
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "649e523b-abef-41db-ae5e-f376f282506a",
+      "name": "🇳🇱 NLZIET",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          472
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeVideo": false
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "ebac509a-eddd-43e8-bdc5-7c9eb5443525",
+      "name": "🇳🇱 NLZIET",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          472
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "86a432f5-80b9-4fd0-b635-4d585d19b3a9",
+      "name": "📼 Videoland",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          72
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "a8d431d2-fafa-477d-b3f2-3f461b146836",
+      "name": "📼 Videoland",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          72
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "250b0a9d-5c1d-49d3-a9bd-564fb21a43e6",
+      "name": "☁️ SkyShowtime",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          1773
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e704f4c5-31b8-495d-b375-1fe739c5e6a8",
+      "name": "☁️ SkyShowtime",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "NL",
+        "watchProviders": [
+          1773
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "8c3a2f05-97af-4113-8eaa-72e5f5af1d22",
+      "name": "☁️ Sky Go",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "DE",
+        "watchProviders": [
+          29
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "3005a368-0e09-4612-a4e8-f947e35360ae",
+      "name": "☁️ Sky Go",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "DE",
+        "watchProviders": [
+          29
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "baa1c77a-de7c-49fa-aa04-58d7b0805bf3",
+      "name": "➕ Canal+",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "FR",
+        "watchProviders": [
+          381
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "f5c29bb7-29ca-4676-8869-837cf55fe75a",
+      "name": "➕ Canal+",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "FR",
+        "watchProviders": [
+          381
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "f2f0978e-ad2a-40cf-b0c9-af74f16fb95e",
+      "name": "✨ Starz",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          43
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "d34894d5-c2f4-44f2-9318-b634e234dba4",
+      "name": "✨ Starz",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          43
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "aa909329-bdf3-48c7-9869-68ec54de9135",
+      "name": "🌍 Discovery+",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          520
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "84072a9a-af6f-492c-a04f-42e3d3191526",
+      "name": "🌍 Discovery+",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          520
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "334e2ebb-5ea9-48f4-a028-ae7aff875016",
+      "name": "🎥 Mubi",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          11
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2e0b0b44-1b85-4837-805f-010dca6808c5",
+      "name": "🎥 Mubi",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          11
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "8051da77-4019-4775-9987-23503f08d8b4",
+      "name": "🇰🇷💞 Rakuten Viki",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          344
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "45e43854-27b3-401f-bfab-1fdf7d8f66f9",
+      "name": "🇰🇷💞 Rakuten Viki",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          344
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "36d0490c-215e-43c4-b807-cbe8945f801b",
+      "name": "🇮🇳📡 SonyLIV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "IN",
+        "watchProviders": [
+          237
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "be2e793e-80f7-4762-8709-ebced278d78e",
+      "name": "🇮🇳📡 SonyLIV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "IN",
+        "watchProviders": [
+          237
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "707fe8cc-9b8b-4236-92d6-dad5d8471c27",
+      "name": "🇪🇸➕ Movistar Plus+",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "ES",
+        "watchProviders": [
+          2241,
+          149
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "446d532d-d30d-4481-aa49-6892e53dbc8f",
+      "name": "🇪🇸➕ Movistar Plus+",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "ES",
+        "watchProviders": [
+          2241,
+          149
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e4361ba7-4268-4696-8c1f-f28f954eea2f",
+      "name": "🔪 Shudder",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          99
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "1412b509-c876-4e74-9c80-5b42de4cffdb",
+      "name": "🔪 Shudder",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          99
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e6adb72c-bc6f-4c42-8dd4-4522ca97dba9",
+      "name": "🇬🇧 BritBox",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          151
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "433f8317-0b16-42d9-96eb-78f284b60c03",
+      "name": "🇬🇧 BritBox",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          151
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "067d963f-cb87-4e08-bcc0-f6e920aa5c84",
+      "name": "🌰 Acorn TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          87
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "b608784d-20d1-49bf-9755-7f35d78a2543",
+      "name": "🌰 Acorn TV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          87
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "d1b6feeb-74d6-4f3c-aba8-6085eb24f0b3",
+      "name": "📺 ITVX",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          41
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e2300ba7-4106-411d-91b3-2af483658dea",
+      "name": "📺 ITVX",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          41
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2be89354-c4fa-4a1e-ab80-45f6fd027a73",
+      "name": "🏛️ BBC iPlayer",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          38
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6101af6e-f5dd-4077-bd14-083c41260047",
+      "name": "🏛️ BBC iPlayer",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          38
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "8c05112f-bba0-4677-8825-510131cf8e8e",
+      "name": "4️⃣ Channel 4",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          103,
+          2311
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "748a06dc-1eb5-4bf3-963c-eabbb67d65fb",
+      "name": "4️⃣ Channel 4",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "GB",
+        "watchProviders": [
+          103
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "022fa224-ed5f-42cb-8b6c-6a0173d1b290",
+      "name": "🧾 Criterion Channel",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          258
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "d2a51f4f-312a-4ce4-9410-14d5d6dd6338",
+      "name": "🧾 Criterion Channel",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          258
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "885f5202-7157-4ad9-8c8b-50a94fc99ff6",
+      "name": "🇨🇳🟢 iQIYI",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          581
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2e023485-169a-4a35-9041-50d691eca63c",
+      "name": "🇨🇳🟢 iQIYI",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          581
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "c0c5468c-3328-4248-8e71-f14870db3a90",
+      "name": "🌙 Shahid VIP",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1715
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "a913be22-98ed-4b93-aefc-8cc01f405ec7",
+      "name": "🌙 Shahid VIP",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1715
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "1d0d8d87-d3e6-4147-8021-0fcfa8bc1c73",
+      "name": "🎞️ AMC",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          80,
+          526
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "627846b2-f31b-42e3-ba1d-9623a57767c3",
+      "name": "🎞️ AMC",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          526,
+          80
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6420f552-c5d5-4d58-961a-7569a3ab1908",
+      "name": "🌏 AsiaCrush",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          514
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "d404107a-47a9-4c07-b0ff-831ee793d6c1",
+      "name": "🌏 AsiaCrush",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          514
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "a6812952-6ea9-4681-9a9a-ac3b47cf4db0",
+      "name": "🩸 Bloodstream",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2555
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "999ecfb5-118a-4664-a82f-b7ae8e95c809",
+      "name": "🎦 Cineverse",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1957
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "8e4fd411-799f-4ebc-b678-8d49bebbccfa",
+      "name": "🎦 Cineverse",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1957
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6491f077-8b83-435c-9166-1ddf0b0aaa5d",
+      "name": "🦇 Cultpix",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          692
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "2f034189-4e1a-4704-a09b-2ac68a5e9a46",
+      "name": "📡📺 DistroTV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1971
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "c3413e91-2ddd-4c86-ae7b-8427902064b0",
+      "name": "📡📺 DistroTV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1971
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "0ae7ad4c-e6f9-400d-a3a3-05b965c08c57",
+      "name": "🔮 Eternal Family",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2411
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "f0ee2157-4d15-4b2f-a7cd-d409f0c55c04",
+      "name": "😎 Fawesome",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2409
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "b2298b9b-cba4-4a02-a670-f1277440ef23",
+      "name": "😎 Fawesome",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2409
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "b1fea2cb-74fb-41fc-bf29-ce5002f350d6",
+      "name": "🎯 FlixFling",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          331
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "3261c8ef-3d45-47cf-a68d-ce331638a0aa",
+      "name": "🎯 FlixFling",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          331
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "ed6245d5-e097-463d-b27c-fcc75c263d82",
+      "name": "🏠 FlixHouse",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2239
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "1968771d-8668-4cfa-8181-871e85a1be3c",
+      "name": "🥷 Hi-YAH",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          503,
+          2403
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e06022d3-2f69-416e-ba11-fc40d2055edd",
+      "name": "🕯️ IndieFlix",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          368
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "76ba7dc1-9358-433a-ba1e-c6e2289a0a44",
+      "name": "⚠️ JustWatch TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2285
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "7c0bc03e-caa8-44d0-b73c-1e1222b2f71f",
+      "name": "📚 Kanopy",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          191
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "54b48226-99c4-4aaf-9413-62f68fc9a72a",
+      "name": "📚 Kanopy",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          191
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "8f5172a8-90e8-48d6-9933-054b10aee84f",
+      "name": "📽️ Kino Film Collection",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2135
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "0853602e-2125-44d5-8361-cd2d4fbaec70",
+      "name": "🇰🇷 Kocowa",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          464
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "404bcb69-afef-4614-9866-2158492b7983",
+      "name": "🇰🇷 Kocowa",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          464
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "691d64a7-cbe0-4557-a284-70c8e316d7ea",
+      "name": "🦁 MGM Plus",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          34
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "1418c963-369b-4ccd-8633-529c0baec948",
+      "name": "🦁 MGM Plus",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          34
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6cab56d0-7bea-4442-afbe-60931120d14c",
+      "name": "🌐 Mometu",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2533
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "da15bb11-dca0-4145-b5bb-14e2a3b06392",
+      "name": "🇰🇷 OnDemandKorea",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          575
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e8b6d253-0905-4ab3-a895-217430dc5d26",
+      "name": "🇰🇷 OnDemandKorea",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          575
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "9f6b5432-d045-4fc7-9db3-9fd67a33c643",
+      "name": "🧩 Plex Channel",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2077
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "620f1196-5e44-48f3-aa19-f3891f84cb92",
+      "name": "🧩 Plex Channel",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          2077
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "cc0c1107-e826-4f8b-ba52-ca142d644c45",
+      "name": "🪐 Pluto TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          1965,
+          300
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "4cbdbb4a-2428-4958-9dd8-fd76214656b9",
+      "name": "🏛️ Public Domain Movies",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          638
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "7ce0b0fe-32dc-489f-96db-23b23a06d6bc",
+      "name": "🎬 Pure Flix",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          278
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "9eccb724-d769-49ba-82a7-208aa4e687c9",
+      "name": "📼🎨 Retrocrush",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          446
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "6763b51d-03bb-4c24-be2d-fe0dba78b2be",
+      "name": "📼🎨 Retrocrush",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          446
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "screenedTheatrically": false,
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "5ed40bd0-6d6d-4689-90f7-130147232870",
+      "name": "📣 Shout! Factory TV",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          439
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "e519df44-d09a-40b6-80b1-f83c3d26e526",
+      "name": "📣 Shout! Factory TV",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          439
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "f8e37d96-f09b-4a52-9301-1bc99072bf97",
+      "name": "🌞 Sundance Now",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          143
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "01f7319e-f076-4144-ab81-c719696c9f52",
+      "name": "🎞️🏛️ TCM",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          361
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "deb16ce7-6532-4c36-ab25-5a4dacb4b4c0",
+      "name": "🌱 The CW",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          83
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "9a64efa2-c960-4033-9133-83ae9d4c22b5",
+      "name": "🌱 The CW",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          83
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "af612ab7-b6e3-4a4e-a4af-7680b7a80385",
+      "name": "🟪 The Roku Channel",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          207
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "a327f4bc-44a8-47cd-bff5-050918fee86f",
+      "name": "🟪 The Roku Channel",
+      "type": "series",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          207
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": [],
+        "includeNullFirstAirDates": true,
+        "releaseTypes": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    },
+    {
+      "_id": "7c13cb55-dd0a-4c2f-8e4c-28d288a3ff60",
+      "name": "🇪🇸 ViX",
+      "type": "movie",
+      "source": "tmdb",
+      "filters": {
+        "listType": "discover",
+        "genres": [],
+        "excludeGenres": [],
+        "genreMatchMode": "any",
+        "sortBy": "popularity.desc",
+        "includeAdult": false,
+        "discoverOnly": true,
+        "randomize": false,
+        "imdbOnly": true,
+        "voteCountMin": 0,
+        "releaseTypes": [],
+        "certifications": [],
+        "watchRegion": "US",
+        "watchProviders": [
+          457
+        ],
+        "watchMonetizationTypes": [],
+        "languages": [],
+        "imdbCountries": [],
+        "keywords": [],
+        "awardsWon": [],
+        "awardsNominated": [],
+        "types": []
+      },
+      "enabled": true,
+      "formState": {
+        "expandedSections": {
+          "basic": false,
+          "genres": false,
+          "filters": false,
+          "release": false,
+          "streaming": false,
+          "people": false,
+          "options": true
+        }
+      }
+    }
+  ]
+}
